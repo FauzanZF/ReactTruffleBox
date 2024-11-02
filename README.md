@@ -2,6 +2,7 @@
 # React Truffle Box
 
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
+![alt text](https://github.com/FauzanZF/ReactTruffleBox/blob/40d765f9ef9e6121e29845ea242e0089ae2ecff2/gambar1.png)
 
 ## Installation
 
