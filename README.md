@@ -6,6 +6,8 @@ This box comes with everything you need to start using Truffle to write, compile
 ![alt text](https://github.com/FauzanZF/ReactTruffleBox/blob/ea04149283ed93d883b48fbabb4ece827ebc466e/gambar2.png)
 ![alt text](https://github.com/FauzanZF/ReactTruffleBox/blob/3976a2fea76f2ee13698a4ceb224eb35d03a69e4/gambar3.png)
 ![alt text](https://github.com/FauzanZF/ReactTruffleBox/blob/b38a7643d89c8446c167c2a7ba765a84876fa5dc/gambar4.png)
+![alt text](https://github.com/FauzanZF/ReactTruffleBox/blob/e55eeed7fb6a8def94c9d5ac31193d3bba7e8a9c/gambar5.png)
+
 ## Installation
 
 First ensure you are in an empty directory.
