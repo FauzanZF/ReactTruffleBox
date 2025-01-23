@@ -1,5 +1,5 @@
 .
-...
+.
 .
 # React Truffle Box
 
